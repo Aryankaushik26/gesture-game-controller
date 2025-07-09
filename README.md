@@ -8,3 +8,12 @@ Features->
 - **Make Fist (✊)** → Brake
 - Works in real-time using **MediaPipe Hand Tracking**
 - Compatible with any PC game mapped to keyboard (like Hill Climb Racing in BlueStacks)
+
+
+
+Tech Stack->
+
+- 🎯 **Python**
+- 🧠 **MediaPipe** – Real-time hand landmark detection
+- 🎮 **pynput** – To simulate keyboard inputs
+- 👁️ **OpenCV** – Webcam capture & image processing
